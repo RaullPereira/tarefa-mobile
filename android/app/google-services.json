@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878552149487",
+    "project_id": "tarefas-254ba",
+    "storage_bucket": "tarefas-254ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878552149487:android:d6293c2e799e6f438a5a1a",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwxi84j4EvFI2Iexj_SIy_dszHNbPeQbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
